@@ -16,19 +16,19 @@ Traditional theories of international trade focuses on inter-industry trade of p
 
 `Gandolfo G. (2014), _International Trade Theory and Policy_, Springer, Berlin`
 
-The Theory of Absolute Advantages (Adam Smith, 1776)
-----
+###The Theory of Absolute Advantages (Adam Smith, 1776)
+
 According to the classical theory of absolute advantages, nations gain in trading between each other when one country has an absolute advantage in one production whereas the other country has an absolute advantage in producing a different good. In this conditions, both nations would benefit to produce the product in which they have the absolute advantage, and trade the product in which they have the absolute disadvantage. According to Smith, differences in production capacity among countries lead to a better division of labor at international level, which triggers economies of scales, efficiency and eventually growth. He criticized the mercantilist approach of considering trade as a zero-sum game, demonstrating that both countries can benefit from free trade (Zhang, 2008).
 
-The Theory of Comparative Advantages (David Ricardo, 1817)
-----
+###The Theory of Comparative Advantages (David Ricardo, 1817)
+
 Ricardo (1817) went further the initial Smith’s intuition by introducing the notion of comparative advantages, according to which a country exports the product in which it has a comparative cost advantage and imports the product in which it has a comparative disadvantage. According to Ricardo, the primary determinant of international trade lies in the existing technological differences between different countries, which are substantiated in different relative productivity levels and different wages in different production sectors. The combination of productivity and labor costs make it more convenient, for each country to produce only some goods and to import other goods from foreign countries, where such goods can be produced more cost effectively. The opening to international trade, therefore, leads each country to specialize in the production in which it is relatively more efficient (Zhang, 2008). The necessary condition for this model to hold is the existence of a difference of "comparative costs", which in turn reflects differences in production techniques; in addition, the trade terms have to be between the comparative costs of the two countries, without never be equal to any of the two. Occurred both conditions, each country will have convenience to specialize in the production of the good that has the greatest relative advantage (or relatively minor disadvantage). Finally, it is assumed that costs of production in the two countries are constant and measurable using a common unit of measure, which is labor, and that only one country has an absolute advantage in the production of one of the two goods concerned. For simplicity the transport costs are ignored (Gandolfo, 2014)
 
-The Theory of factor endowments (Heckscher and Ohlin, 1933)
-----
+###The Theory of factor endowments (Heckscher and Ohlin, 1933)
+
 Ricardo explained that the comparative advantage stems from differences in productivity of labor, but does not explain the reason why there is a difference in labor productivity between countries. In this regard, Heckscher and Ohlin (1933) argued that the comparative advantage rises from differences in the relative factor endowments. The countries differ from each other based on factors of production that they possess. Goods differ according to the factors of production that are required to produce them. The HO model supports that a country enjoys a comparative advantage in a specific good, if it has a good supply of input materials for its production. The basic logic is that the more abundant a factor, the lower its cost. The differences in factor endowments of the various countries explain differences in factor costs, differences that form the comparative advantage. Exemplifying the theory, it is possible to think of two factors of production, capital and labor (while in the Ricardian model the only factor of production was labor). The HO model assumes that the production methods are different among countries, even if their technology is the same: different methods result in different combinations of capital and labor. In other words, countries can choose different production methods based on the cost of production factors. Thus, the patterns of production and trade are explained by different factor endowments. It is convenient to export to foreign markets those goods produced with higher intensity by a factor relatively abundant and therefore less expensive (Gandolfo, 2014).
 
-## Beyond the Classical Models
+##Beyond the Classical Models
 
 Although the core theories of international trade have focussed on factor endowment and comparative advantages in technological differences, the aspects of learning and foreign direct investment (FDI) require more attention. According to Gandolfo (xxxx), the transfer of financial assets worldwide has grown faster than the transfer of commodities. This shows that the transfer of capital and financial assets across borders has increased rapidly, highlighting its importance. Furthermore, the classical (Ricardo) model explains international trade based on technological differences, but assumes these differences to be static. Ricardo’s model is limited in the fact that it doesn’t explain the effect on international trade with increased technological innovation. However, technological innovation, which can also be linked to knowledge accumulation or increased learning, is the main driver of growth in the world economy and improves the competitiveness of a country. Putting more emphasis on the importance of knowledge is therefore crucial and needs to be included in further analysis. 
 
@@ -57,7 +57,7 @@ After the multinationals have settled and contributed to the domestic GDP, Tinte
 
 He also complemented his statement with another phenomena. In the face of international trade agreements, multinationals have the ability to move to the most favourable country in terms of cost structure due to changes in the law and trade. This means that trade and investment agreements can result in a third-country effect. Multinational production sites in America might move to Canada after CETA has been signed. 
 
-## Case Studies
+##Case Studies
 
 A third-country effect thus suggest a great effect of international trade agreements. Whether this theory holds for all cases in history begs to differ. Even with the aforementioned models and effects, it might have great explanatory power in one situation, but nothing in the other. Detailed case studies will then shed more light on what is happening in the bigger picture. 
 
@@ -75,22 +75,24 @@ The mentioned region were not exactly wealthy nor in resources and capital. Neve
 
 Following the success story of Japan, we ought to refer South Korea (now will be referred simply as Korea) as an example in which trade liberalisation effectively promoted a sustained growth of the national economy. We are talking about a country which is poor in natural resources with a scarce cultivable land. A country composed by a widely agrarian and feudalistic society. In the early 60’s unemployment and poverty were reaching extreme levels. Well South Korea is now one of the highly industrialised economies of the world, representing a fair share of the world’s trade and a already well established developed country.
 
-# Tubagus Feridhanusetyawan, "CHANGING TRADE PATTERNS AND THE IMPACT OF TRADE LIBERALIZATION IN ASIA PACIFIC", 1997
-# Michelle Connolly and Kei-Mu Yi, "How much of South Korea's Growth Trade can be Explained by Trade Policy", 2008
-# Arvind Panagariya, "Miracles and Debates: Do Free-Trade Skeptics have a case"
-# Kwan S. Kim, "The Korean Miracle Revisited: Myths and Realities in Strategy and Development, 1991
-# Stephen C. Smith, "Case Studies in Economic Development, Third Edition", 2003
+`Tubagus Feridhanusetyawan, "CHANGING TRADE PATTERNS AND THE IMPACT OF TRADE LIBERALIZATION IN ASIA PACIFIC", 1997`
+`Michelle Connolly and Kei-Mu Yi, "How much of South Korea's Growth Trade can be Explained by Trade Policy", 2008`
+`Arvind Panagariya, "Miracles and Debates: Do Free-Trade Skeptics have a case"`
+`Kwan S. Kim, "The Korean Miracle Revisited: Myths and Realities in Strategy and Development, 1991`
+`Stephen C. Smith, "Case Studies in Economic Development, Third Edition", 2003`
 
-The gradual growth of Korea was outlined in three different policy steps: (1)Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation.
+The gradual growth of Korea was outlined in three different policy steps: (1) Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation.
 
 The first step taken is a clear change of route for the Korean economy, switching from a Import-Substituting country to a Exporting intensive country. In raw terms, as if the former industries are boosted in such way that it allows openness to other countries.
 
 In the early 60’s Korea started by eliminating tariffs on imported inputs and capital goods given that these promote an export expansion industry. As in Westphal and Kim (1977) this was the most relevant policy towards exports-expansion. The coming decades, starting in 1970, were characterised by the General Agreement on Tariffs and Trade (GATT)- now known as the World Trade Organisation (WTO)- sets promoted for global tariff reduction, namely the Kennedy Round and the Tokyo Round which allowed for a gradual reduction of tariff rates from around 40 percent all the way to 13 percent. 
+
 Lower tariffs facilitated specialisation which allowed for an increase in total factor productivity, in raw terms, productivity. Also with the tariffs being lower it enabled the import of investment goods which allows for capital accumulation - essential for a solid industrialisation process. These factors are generally associated with an increase in per capita GDP as was the case.
 The Korean government made the conditions favourable for the export oriented sectors could compete against the highly industrialised USA, UK and even Japan. As stated in Westphal(1990):
 
-“Korea’s industrial performance owes a great deal to the government’s promotional policies toward exports and to its initiatives in
+> “Korea’s industrial performance owes a great deal to the government’s promotional policies toward exports and to its initiatives in
 targeting industries for development. If nothing else, policies towards exports have created an atmosphere--rare in the Third World--in which businessmen could be certain that the economic system would respond to and subsequently reward their efforts aimed at expanding and upgrading exports.” 
+
 The government of South Korea is the one to blame for the successful rise of the country: An export promotion policy allowed for the country to have more foreign reserves that enable the purchase of high quality inputs. Also, Korea is a country with rather high savings rates - this creates incentives for investment infrastructure. Technology spillovers also permitted for an increase in human capital. All combined these are of paramount importance for the transition from a labor-intensive industry to a capital-intensive industry.
 
 Looking at South Korea now we have a solidified nation. One in which the income gap is rather low. The industries here located tend to use state-of-the-art technology which promotes also higher levels of education - ultimately resulting in a skilled and high-income labor.
@@ -100,35 +102,37 @@ As further evidence for the benefits of free trade we propose the not so success
 All in all during 1960-1980 the average per capita GDP growth was 6.3 percent for Korea and only 1.1 percent in India. While Korea managed to turn towards an outward-oriented trade regime India followed a protectionist approach. The fact that the Indian government followed an import-substituting policy did not allow for at least the import of inputs of higher quality such that the efficiency levels could be increased.
 
 In contrast to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth:
-(Revenga, 1994, “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing”)
+
+`Revenga, 1994, “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing”`
 In Mexico, a 10% reduction in tariff levels lead to a 2-3% reduction in employment and an average 3-4% decline in real wages; the wage
 differential between skilled and unskilled workers increased intensely, while real wages of unskilled workers declined. The most
 fundamental reason pointed out for this result was the flexibility of the predominant wage. 
 
-(Mesquita & Najberg, 2000, “Trade liberalization in Brazil: Creating or exporting jobs?”)
+`Mesquita & Najberg, 2000, “Trade liberalization in Brazil: Creating or exporting jobs?”`
 Brazil is a resource-abundant country, and Brazilian exports are concentrated in the products with the lowest degree of processing. The
 trade liberalization that took place in the early 1990s caused a short-term 32% drop in employment in capital-intensive industries due
 to a sharp increase in productivity. Furthermore, as the domestic market opened its borders to new import-products, the export
 performance of the country degraded, causing roughly a 13% decline in the employment of labor-intensive industries. 
 
-(DESA Working Paper No. 5, 2005, “Trade Liberalization and Employment”)
+`DESA Working Paper No. 5, 2005, “Trade Liberalization and Employment”`
 Contrary to the predictions of economic models such as the Hecksher-Ohlin and the Stolper-Samuelson model, wage inequality increased in several countries after trade liberalization. The possibility of outsourcing and relocation of labor-intensive production processes from advanced to developing countries play also part in this phenomenon. This is not to say that the models are necessarily invalid, since Asian countries had quite an opposite experience, but rather to indicate that country-specific and contingent factors are crucial in a discourse about the benefits of trade liberalization. The difference between Latin American and Asian countries was that in Latin American countries there were problems of macroeconomic management, a significantly unequal distribution of assets, and an overdependence on external resources. Asian countries instead, chose to selective promote export policies. Not all countries are able to successfully implement such interventionist strategies and promote infant industries with the highest potentials, because efficient administration and strong political positions are required, conditions that hardly apply in developing countries.
 
-(Sachs and Warner, 1995, Natural Resource Abundance and Economic Growth)
-(Dollar, 1992, “Outward-Oriented Developing Economies Really Do Grow More Rapidly”)
+`Sachs and Warner, 1995, Natural Resource Abundance and Economic Growth`
+`Dollar, 1992, “Outward-Oriented Developing Economies Really Do Grow More Rapidly”`
 These two studies had a high influence in forming the view that lowering trade barriers through national policies can generate growth faster for the country. Dollar advocated the benefits of free trade using a cross-section analysis for a sample of 95 countries between the period of 1976 and 1985 in order to demonstrate that growth is negatively correlated with real exchange rate distortion and real exchange variability, which are inextricably linked to a close economy. Sachs and Warner had similar results when measuring the relationship of openness and growth. In their cross-section analysis they used 70 countries as a sample, accounting for the level of average tariffs, political systems, and market power and structure.
 
-(Rodriguez and Rodrick, 1999, “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence”)
+`Rodriguez and Rodrick, 1999, “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence”`
 The findings of the above two studies have been questioned by a convincing critique of Rodriguez and Rodrick, who find the selected indicators of “openness” seriously flawed. The main argument is that the measures of trade barriers are not reliable enough, and that they are also highly correlated with other sources of poor economic performance. If this argument holds, then the proposition that trade liberalization is automatically leads to higher growth is not undisputable.
 
-(Dollar and Kraay, 2001, “Trade, Growth, and Poverty”)
+`Dollar and Kraay, 2001, “Trade, Growth, and Poverty”`
 A group of countries is identified as the “post-1980 globalizers” that have seen both a considerable raise in trade and a significant decline in tariffs from 1970 until 1990. The paper claims that despite the decline of growth in developed and other undeveloped countries, the “post-1980 globalizers” accelerated their growth rates during that period. The paper is admittedly more persuading on the effects of trade expansion on growth than on the effects of trade policy per se.
 
-(Rodrick, 2001, “The Global Governance of Trade as if Development really Mattered”)
+`Rodrick, 2001, “The Global Governance of Trade as if Development really Mattered”`
 The paper denotes that the work of Dollar and Kraay (2001) is also flawed by applying an “arbitrary set of selection criteria to their sample of countries”. Rodrick criticized the combining of a policy measure with an outcome measure in selecting countries that Dollar and Kraay did as “conceptually inappropriate”. He also denoted that “policy makers do not directly control the level of trade… the tools at the disposal of governments are tariff and non-tariff barriers, not import or export levels”. This is indeed worth noting, since the countries in the sample that implemented deep trade liberalization had lower rates of economic growth than than the countries who just expanded their trade volume. Another point of Rodrick was that China and India passed trade reforms a decade after their growth acceleration, and therefore their growth rates are is not attributable to trade liberalization.
 
-(Greenaway, Morgan and Wright, 1998, “Trade Liberalization and Growth in Developing Countries”)
+`Greenaway, Morgan and Wright, 1998, “Trade Liberalization and Growth in Developing Countries”`
 This recent review of the empirical evidence on the effects of trade liberalization concludes that country circumstances play the highest role on whether growth declines or increases. For example, there are short-run costs of adjustment to trade liberalization (“a J-curve type response”), such as an observed increase in current account deficits in spite of an increase in exports. Overall, the mixed results that the paper presents indicate that the impact of trade liberalization is highly influenced by the type of the liberalization program, pre-existing distortions in the trade regime and the flexibility of markets.
 
-Some Conclusions
-In general, there is no question for the beneficial role of trade liberalization in terms of its growth, employment and distributional implications. The advocates of trade liberalization support that extensive and rapid trade liberalization measures will bring proportional benefits. However, such claims rest on the assumptions such as the existence of perfect competition, fully employed resources (including labor), constant returns to scale in production, and that trade will always be balanced. Notwithstanding, the assumptions in question often do not materialize in the real world, where, especially in developing countries, market imperfections are common and industrial production is characterized by economies of scale. Moreover, according to endogenous growth theories, trade restrictions can also produce higher rates of growth of output, conditionally that the aforementioned restrictions promote technologically dynamic sectors over others.
+## Final Remarks
+
+In general, there is no question for the beneficial role of trade liberalization in terms of its growth, employment and distributional implications. The advocates of trade liberalization support that extensive and rapid trade liberalization measures will bring proportional benefits. However, such claims rest on the assumptions such as the existence of perfect competition, fully employed resources (including labor), constant returns to scale in production, and that trade will always be balanced. Notwithstanding, the assumptions in question often do not materialize in the real world, where, especially in developing countries, market imperfections are common and industrial production is characterized by economies of scale. Moreover, according to endogenous growth theories, trade restrictions can also produce higher rates of growth of output by developing dynamic comparative advantages. Conditionally that the aforementioned restrictions promote technologically dynamic sectors over others. It is of importance before opening up to trade to remove barriers of innovation to benefit from knowledge spillovers and learning benefits that might develop in the presence of multinational firms. 
