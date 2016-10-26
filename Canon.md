@@ -12,9 +12,9 @@ By doing so, it should enable you to form an informed opinion on the topic of in
 
 Traditional theories of international trade focuses on inter-industry trade of products between countries by analyzing the import and export of goods that cross national boundaries. They aim to understand what are the factors that are at the origin of the international specialization of the countries (i.e. what are the types of goods exported or imported by each country and why); the effects of the opening to international trade (who will gain and who will lose in the process of specialization); and finally, a third area of study (trade policy) concerns the possible actions to be taken to restrict imports and encourage exports, and the effects of these measures on the economic well-being.
 
-'Zhang W.B. (2008), _International Trade Theory Capital, Knowledge, Economic Structure, Money, and Prices over Time_, Springer, Berlin'
+`Zhang W.B. (2008), _International Trade Theory Capital, Knowledge, Economic Structure, Money, and Prices over Time_, Springer, Berlin`
 
-'Gandolfo G. (2014), _International Trade Theory and Policy_, Springer, Berlin'
+`Gandolfo G. (2014), _International Trade Theory and Policy_, Springer, Berlin`
 
 The Theory of Absolute Advantages (Adam Smith, 1776)
 ----
@@ -32,26 +32,26 @@ Ricardo explained that the comparative advantage stems from differences in produ
 
 Although the core theories of international trade have focussed on factor endowment and comparative advantages in technological differences, the aspects of learning and foreign direct investment (FDI) require more attention. According to Gandolfo (xxxx), the transfer of financial assets worldwide has grown faster than the transfer of commodities. This shows that the transfer of capital and financial assets across borders has increased rapidly, highlighting its importance. Furthermore, the classical (Ricardo) model explains international trade based on technological differences, but assumes these differences to be static. Ricardo’s model is limited in the fact that it doesn’t explain the effect on international trade with increased technological innovation. However, technological innovation, which can also be linked to knowledge accumulation or increased learning, is the main driver of growth in the world economy and improves the competitiveness of a country. Putting more emphasis on the importance of knowledge is therefore crucial and needs to be included in further analysis. 
 
-'Stiglitz, J. E., & Greenwald, B. C. (2014). Creating a learning society. New York, NY: Columbia University Press.'
+`Stiglitz, J. E., & Greenwald, B. C. (2014). Creating a learning society. New York, NY: Columbia University Press.`
 
 Stiglitz and Greenwald in their book Creating a learning society focus on the importance of learning, that is learning by doing, learning to learn by learning or learning spillovers. Although their focus is not on the effects of liberalization of trade with respect to learning, they do offer valuable lessons and insights regarding opening up to trade. One of them is that a country can increase domestic output by attracting multinationals and investments. However, the benefits of the obtained output largely go to the supplier of capital that is the multinational and not the society of the country. Therefore when GDP increases, GNP might even decrease and the citizens are worse off (p. 41). 
 
 In favour of protectionism, they also argue that increased domestic production can hold learning benefits for a country’s society and that the modern literature has largely not mentioned these positive externalities (p. 54). Protectionism can make domestic producers competitive so they will survive foreign competition in the case of opening up to trade. A dynamic comparative advantage can be developed, which opposes the believe of comparative advantages to be static. This arguments is called the infant-industry argument, which can be extended to an infant-economy argument, for protection and Stiglitz and Greenwald describe it as follows:
 
-<The infant-industry argument for protection held that developing countries should protect their “infants” so they could become more productive (learn-by-doing) and thus become competitive with the more advanced countries. Without such protection, the developing economies would be relegated to producing traditional goods marked by slow growth in productivity. (p. 332)>
+>The infant-industry argument for protection held that developing countries should protect their “infants” so they could become more productive (learn-by-doing) and thus become competitive with the more advanced countries. Without such protection, the developing economies would be relegated to producing traditional goods marked by slow growth in productivity. (p. 332)
 
-'Aghion, P., Howitt, P. W. (2009). The economics of growth. Cambridge, MA: The MIT Press.'
+`Aghion, P., Howitt, P. W. (2009). The economics of growth. Cambridge, MA: The MIT Press.`
 
 Aghion and Howitt discuss many details concerning growth in their book. Chapter 15, Liberalizing Trade, discusses the effects on growth of opening up to trade. One of these effects is the market-size effect, which states that openness of trade increases the size of markets, which can then lead to increasing the scale of production. Note that the market-size effect should be higher for countries with relatively small domestic market size. Furthermore, trade transfers knowledge across borders, from the technological frontier to the technological follower. These knowledge spillovers are most beneficial for a country that is furthest behind in the relevant technology. Moreover, exporters and domestic producers have to become more competitive in the presence of foreign competition. They have to learn how to compete and become more productive. This tends to select the most productive producers in each sector and increase the overall productivity of a country (pp. 353-354).
   
 In conclusion, for a country to benefit from openness to trade, one should be able to catch up with the technologies, meaning that the barriers to innovation should be limited. Aghion and Howitt presume “that if there are instances where trade is bad for growth, they are probably in small countries that start off far behind the global technology frontier” (p. 370). And they argue that “it might be better to remove barriers to innovation first and then to wait until several domestic industries have become world leaders before removing the barriers to international trade” (p. 371).
 
-'Alfaro, L., & Chen, M. X. (2014). The global agglomeration of multinational firms. Journal of International Economics, 94, 263–276. http://dx.doi.org/10.1016/j.jinteco.2014.09.001'
+`Alfaro, L., & Chen, M. X. (2014). The global agglomeration of multinational firms. Journal of International Economics, 94, 263–276. http://dx.doi.org/10.1016/j.jinteco.2014.09.001`
 
 Also when it comes to FDI and the part that multinationals play in opening up to trade we find the same remark. Removing barriers to innovation or in other words providing an infrastructure of easy technology diffusion is crucial for successful liberalization of trade. 
 Alfaro and Chen look at the factors that determine the location choice of a multinational firm. They conclude from their findings that developing countries could attract multinational companies by providing the infrastructure for supporting easy diffusion of technology. This in turn could lead to growth if also the benefits of production accrue to not only the GDP but also the GNP.
 
-'Tintelnot, F. (2014). Global production with export platforms, WTO Staff Working Paper, No. ERSD-2014-17'
+`Tintelnot, F. (2014). Global production with export platforms, WTO Staff Working Paper, No. ERSD-2014-17`
 
 After the multinationals have settled and contributed to the domestic GDP, Tintelnot reveals that multinationals play a significant role in the knowledge spillovers “as they can jump the barriers to international trade”. He finds that productivity increases in US firms led to higher welfare gains in foreign countries due to the presence of multinationals.
 
