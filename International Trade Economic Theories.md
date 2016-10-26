@@ -18,4 +18,4 @@ References
 ---
 Zhang W.B. (2008), _International Trade Theory Capital, Knowledge, Economic Structure, Money, and Prices over Time_, Springer, Berlin
 
-Gandolfo G. (2014), _International Trade Theory and Policy_,Springer, Berlin
+Gandolfo G. (2014), _International Trade Theory and Policy_, Springer, Berlin
