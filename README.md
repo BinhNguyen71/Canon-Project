@@ -11,3 +11,5 @@ A project by Cesare Dagostino, Georgios Ellinas, Miguel van de Goor, Joep Hermus
 We aim to be able to explain the key concepts about the liberalization of trade clearly and hope that any person will be able to understand the mechanisms concerning free trade hereforth.
 
 Thank you
+
+![Magic](https://media4.giphy.com/media/igB2Th9e4nW6s/200_s.gif "just a dance")
