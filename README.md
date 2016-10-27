@@ -1,3 +1,4 @@
+![Magic](http://dailycaller.com/wp-content/uploads/2016/05/Free-Trade-sign-with-clouds-and-sky-background-e1462912559684.jpg "A really nice picture")
 ### *A canon on*
 # Liberalization of Trade in Developing Countries
 
