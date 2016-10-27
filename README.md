@@ -1,5 +1,5 @@
 ### *A canon on*
-# Free Trade in Developing Countries
+# Liberalization of Trade in Developing Countries
 
 A project by Cesare Dagostino, Georgios Ellinas, Miguel van de Goor, Joep Hermus, Hemal Kanji, Joost Melchers and Binh Nguyen. As part of the MSc Economics' course Applied Economic Analysis 1, the canon is a summarized in-depth analysis on a subfield concerning our track Sustainability and Growth. 
 
