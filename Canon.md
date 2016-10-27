@@ -2,18 +2,18 @@
 
 #Liberalization of Trade on Growth in Developing Countries
 
-That the benefits of opening up to trade are subject to discussion, is becoming increasingly clear with controversy arising around free trade agreements such as TTIP and CETA in Europe, and TPP in the US. While elementary economic theory is quite clear in stating that free trade is good for everyone, if only to increase economic efficiency. But as with any theory, the question should be asked whether this can actually be observed in practice. Perhaps more sophisticated theories might better capture the mechanisms at work when countries open up to international trade. Because extensive trade liberalizations have been occurring in developing countries far more often in the recent past than in already developed countries, the examples and studies represented in this canon will mostly concern these developing countries.  It may also be argued that developing countries will face the worst of the disadvantages of free trade, as these are likely to face competition by the developed countries’ more competitive industries.
+The benefits of opening up to trade are subject to discussion since the days of Ricardo and Smith. Besides developing countries' growing openness to trade, the liberalization of trade is in constant evolution with free trade agreements such as TTIP, CETA and TPP. While elementary economic theory is quite clear in stating that free trade is good for an economy due to increasing economic efficiency. But as with any theory, the question should be asked whether this can actually be observed in practice. Perhaps more sophisticated theories might better capture the mechanisms at work when countries open up to international trade. Because extensive trade liberalizations have been occurring in developing countries far more often in the recent past than in already developed countries, the examples and studies represented in this canon will mostly concern these developing countries.  It may also be argued that developing countries will face the worst of the disadvantages of free trade, as these are likely to face competition by the developed countries’ more competitive industries.
 
 This canon will provide you with references to models of international economics, both elementary and some more advanced ones, and study some identifiable cases of countries opening up to trade. By doing so, it should enable you to form an informed opinion on the topic of international trade and its implications.
 
-The key questions that will be answered in this canon are:
-- [x] Most of all, does free trade stimulate economic growth in developing countries?
+The main question this canon will answer is: Does free trade stimulate economic growth in developing countries? With key questions being:
 - [x] What models make up the foundation of international trade theory?
 - [x] On which important factors do the classical models miss out on?
 - [x] How can FDI affect the domestic economy of a developing country?
 - [x] In which situations might liberalization of trade be not beneficial for sub-developed and developing countries?
 - [x] In more detail, what are the prerequisites for a succesfull liberalization of trade?
 - [x] Are the assumptions of the specified models realized in case studies?
+- [x] Can we see a convergence of views in international literature on the matter of free trade advantages and disadvantages?
 
 ##The Classical (Orthodox) Models of International Trade
 
@@ -104,15 +104,9 @@ As further evidence for the benefits of free trade, Smith proposes the lesser su
 
 All in all during 1960-1980 the average per capita GDP growth was 6.3 percent for Korea and only 1.1 percent in India. While Korea managed to turn towards an outward-oriented trade regime India followed a protectionist approach. The fact that the Indian government followed an import-substituting policy did not allow for at least the import of inputs of higher quality such that the efficiency levels could be increased.
 
-*In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth:
+*In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth. Instead, on some occasions there was poor export performance, rise in wage inequality and changes in the economic structure of production:
 
-`Revenga, A. 1997. “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing.” Journal of Labor Economics, Vol. 15, No. S3, pp. S20-S43.`
-
-In Mexico, a 10% reduction in tariff levels lead to a 2-3% reduction in employment and an average 3-4% decline in real wages; the wage
-differential between skilled and unskilled workers increased intensely, while real wages of unskilled workers declined. The most
-fundamental reason pointed out for this result was the flexibility of the predominant wage. 
-
-`Moreira, M. M. & Najberg, S. 2000. “Trade liberalization in Brazil: Creating or exporting jobs?” Journal of Development Studies, 36 (3), pp. 78-99.`
+`Trade liberalization in Brazil: Creating or exporting jobs?” Journal of Development Studies, 36 (3), pp. 78-99.`
 
 Brazil is a resource-abundant country, and Brazilian exports are concentrated in the products with the lowest degree of processing. The
 trade liberalization that took place in the early 1990s caused a short-term 32% drop in employment in capital-intensive industries due
