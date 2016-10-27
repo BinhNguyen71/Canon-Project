@@ -14,9 +14,9 @@ By doing so, it should enable you to form an informed opinion on the topic of in
 
 Traditional theories of international trade focuses on inter-industry trade of products between countries by analyzing the import and export of goods that cross national boundaries. They aim to understand what are the factors that are at the origin of the international specialization of the countries (i.e. what are the types of goods exported or imported by each country and why); the effects of the opening to international trade (who will gain and who will lose in the process of specialization); and finally, a third area of study (trade policy) concerns the possible actions to be taken to restrict imports and encourage exports, and the effects of these measures on the economic well-being.
 
-`Zhang W.B. (2008), _International Trade Theory Capital, Knowledge, Economic Structure, Money, and Prices over Time_, Springer, Berlin`
+`Zhang, W.B. 2008. “International Trade Theory Capital, Knowledge, Economic Structure, Money, and Prices over Time.” Springer, Berlin.`
 
-`Gandolfo G. (2014), _International Trade Theory and Policy_, Springer, Berlin`
+`Gandolfo, G. 2014. “International Trade Theory and Policy.” Springer, Berlin.`
 
 ###The Theory of Absolute Advantages (Adam Smith, 1776)
 
