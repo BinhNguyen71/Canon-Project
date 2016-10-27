@@ -68,33 +68,23 @@ He also complemented his statement with another phenomenon. In the face of inter
 
 A third-country effect thus suggests a great effect of international trade agreements. Whether this theory holds for all cases in history begs to differ. Even with the aforementioned models and effects, it might have great explanatory power in one situation, but nothing in the other. Detailed case studies will then shed more light on what is happening in the bigger picture. 
 
-Economic Integration is achieved mainly from trade liberalisation. What we question here is to what extent opening up the economy to foreign competition promote effective Economic Development.
+Trade Liberalization, is in its genesis a first step towards Economic Integration. Economic Integration, as the Hungarian Professor Bela Balassa defended, promotes Economic growth and development. From the stages of Economic Integration we focus our analysis on the initial four: tariff preferences system, free trade area, customs union and the common market as a consolidation.
 
-From the stages of Economic Integration we focus our analysis on the initial four: tariff preferences system, free trade are, customs union and the common market as a consolidation.
+Under the empirical evidences of trade liberalisation we address to the case of the Pacific Arch, which includes the cases of Japan, the Asian Tigers (Hong Kong, Singapore, South Korea and Taiwan), and the 2nd Generation of Industrialised countries (Thailand, Malaysia, Indonesia, China). The mentioned regions were not exactly wealthy nor in resources and capital. Nevertheless the labor is abundant, disciplined, capable and rather cheap.
 
-Under the empirical evidences of trade liberalisation we address to the case of the Pacific Arch. A process which in which we can distinguish 3 different phases:
-
-- The case of Japan;
-- The Asian Tigers (Hong Kong, Singapore, South Korea and Taiwan)
-- The 2nd Generation of Industrialised countries (Thailand, Malaysia, Indonesia, China)
-
-The mentioned regions were not exactly wealthy nor in resources and capital. Nevertheless the labor is abundant, disciplined, capable and rather cheap.
-
-We ought to refer South Korea (now will be referred simply as Korea) as an example in which trade liberalisation effectively promoted a sustained growth of the national economy. We are talking about a country which is poor in natural resources with a scarce cultivable land. A country composed by a widely agrarian and feudalistic society. In the early 60’s unemployment and poverty were reaching extreme levels. Well South Korea is now one of the highly industrialised economies of the world, representing a fair share of the world’s trade and an already well-established developed country.
+We will focus our analysis of the Pacific Arch with the case of South Korea (now will be referred simply as Korea) as an example in which trade liberalisation effectively promoted a sustained growth of the national economy. We are talking about a country which is poor in natural resources with a scarce cultivable land. A country composed by a widely agrarian and feudalistic society. In the early 60’s unemployment and poverty were reaching extreme levels. Well South Korea is now one of the highly industrialised economies of the world, representing a fair share of the world’s trade and an already well-established developed country.
 
 `Feridhanusetyawan, T. 1997. "Changing trade patterns and the impact of trade liberalization in Asia Pacific." Working paper (ACIAR Indonesia Research Project), 97-10. Adelaide, Australia: CIES, University of Adelaide.`
 
 `Connolly, M. & Yi K. M. 2015. "How much of South Korea's Growth Trade can be Explained by Trade Policy." American Economic Journal: Macroeconomics Vol. 7, No. 4. (pp. 188-221).`
 
-`Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case.`
+`Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case"`
 
 `Kim, K. S. 1991. "The Korean Miracle (1962-1980) Revisited: Myths and Realities in Strategy and Development" Issue 166 of Working paper. Helen Kellogg Institute for International Studies, University of Notre Dame.`
 
-`Smith, S. C. 2003. "Case Studies in Economic Development, Third Edition”. George Washington University Department of Economics. A supplement to Michael P. Todaro and Stephen C. Smith, Economic Development, 8 th Edition, Boston, MA: Addison-Wesley.`
+For the case of South Korea many papers address this case as a success story. For that reason the conclusions on the effects of trade liberalization always converge. For this reason the papers above, combined, are complementary on the analysis of this story.
 
-The gradual growth of Korea was outlined in three different policy steps: (1) Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation.
-
-The first step taken is a clear change of route for the Korean economy, switching from a Import-Substituting country to a Exporting intensive country. In raw terms, as if the former industries are boosted in such way that it allows openness to other countries.
+The gradual growth of Korea was outlined in three different policy steps: (1) Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation. The first step taken is a clear change of route for the Korean economy, switching from a Import-Substituting country to a Exporting intensive country. In raw terms, as if the former industries are boosted in such way that it allows openness to other countries.
 
 In the early 60’s Korea started by eliminating tariffs on imported inputs and capital goods given that these promote an export expansion industry. As in Westphal and Kim (1977) this was the most relevant policy towards exports-expansion. The coming decades, starting in 1970, were characterised by the General Agreement on Tariffs and Trade (GATT)- now known as the World Trade Organisation (WTO)- sets promoted for global tariff reduction, namely the Kennedy Round and the Tokyo Round which allowed for a gradual reduction of tariff rates from around 40 percent all the way to 13 percent. 
 
@@ -104,15 +94,15 @@ The Korean government made the conditions favourable for the export oriented sec
 > “Korea’s industrial performance owes a great deal to the government’s promotional policies toward exports and to its initiatives in
 targeting industries for development. If nothing else, policies towards exports have created an atmosphere--rare in the Third World--in which businessmen could be certain that the economic system would respond to and subsequently reward their efforts aimed at expanding and upgrading exports.” 
 
-The government of South Korea is the one to blame for the successful rise of the country: An export promotion policy allowed for the country to have more foreign reserves that enable the purchase of high quality inputs. Also, Korea is a country with rather high savings rates - this creates incentives for investment infrastructure. Technology spillovers also permitted for an increase in human capital. All combined these are of paramount importance for the transition from a labor-intensive industry to a capital-intensive industry.
+The government of South Korea is responsible for the successful rise of the country: An export promotion policy allowed for the country to have more foreign reserves that enable the purchase of high quality inputs. Also, Korea is a country with rather high savings rates - this creates incentives for investment infrastructure. Technology spillovers also permitted for an increase in human capital. All combined these are of paramount importance for the transition from a labor-intensive industry to a capital-intensive industry.
 
 Looking at South Korea now we have a solidified nation. One in which the income gap is rather low. The industries here located tend to use state-of-the-art technology which promotes also higher levels of education - ultimately resulting in a skilled and high-income labor.
 
-As further evidence for the benefits of free trade we propose the not so successful case of India during approximately the same time period. Even though India managed to increase its GDP growth rate (between 1950 and 1980) this increase in the growth rate was nowhere near that witnessed in Korea. The focus on protectionism in India was such that in the 1970’s all imports went under strict license, reaching a level of nearly 3 percent of the GDP in 1975/76.
+`Smith, S. C. 2003. "Case Studies in Economic Development, Third Edition”. George Washington University Department of Economics. A supplement to Michael P. Todaro and Stephen C. Smith, Economic Development, 8 th Edition, Boston, MA: Addison-Wesley.`
+
+As further evidence for the benefits of free trade, Smith proposes the lesser successful case of India during approximately the same time period. Even though India managed to increase its GDP growth rate (between 1950 and 1980) this increase in the growth rate was nowhere near that witnessed in Korea. The focus on protectionism in India was such that in the 1970’s all imports went under strict license, reaching a level of nearly 3 percent of the GDP in 1975/76.
 
 All in all during 1960-1980 the average per capita GDP growth was 6.3 percent for Korea and only 1.1 percent in India. While Korea managed to turn towards an outward-oriented trade regime India followed a protectionist approach. The fact that the Indian government followed an import-substituting policy did not allow for at least the import of inputs of higher quality such that the efficiency levels could be increased.
-
-
 
 *In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth:
 
