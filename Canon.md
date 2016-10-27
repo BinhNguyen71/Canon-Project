@@ -11,7 +11,7 @@ The main question this canon will answer is: Does free trade stimulate economic 
 - [x] On which important factors do the classical models miss out on?
 - [x] How can FDI affect the domestic economy of a developing country?
 - [x] In which situations might liberalization of trade be not beneficial for sub-developed and developing countries?
-- [x] In more detail, what are the prerequisites for a succesfull liberalization of trade?
+- [x] In more detail, what are the prerequisites for a successful liberalization of trade?
 - [x] Are the assumptions of the specified models realized in case studies?
 - [x] Can we see a convergence of views in international literature on the matter of free trade advantages and disadvantages?
 
