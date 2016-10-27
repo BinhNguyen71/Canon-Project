@@ -4,11 +4,16 @@
 
 That the benefits of opening up to trade are subject to discussion, is becoming increasingly clear with controversy arising around free trade agreements such as TTIP and CETA in Europe, and TPP in the US. While elementary economic theory is quite clear in stating that free trade is good for everyone, if only to increase economic efficiency. But as with any theory, the question should be asked whether this can actually be observed in practice. Perhaps more sophisticated theories might better capture the mechanisms at work when countries open up to international trade. Because extensive trade liberalizations have been occurring in developing countries far more often in the recent past than in already developed countries, the examples and studies represented in this canon will mostly concern these developing countries.  It may also be argued that developing countries will face the worst of the disadvantages of free trade, as these are likely to face competition by the developed countries’ more competitive industries.
 
-(Insert stylized facts/short history here)
+This canon will provide you with references to models of international economics, both elementary and some more advanced ones, and study some identifiable cases of countries opening up to trade. By doing so, it should enable you to form an informed opinion on the topic of international trade and its implications.
 
-This canon will provide you with references to models of international economics, both elementary and some more advanced ones, and study some identifiable cases of countries opening up to trade. 
-By doing so, it should enable you to form an informed opinion on the topic of international trade and its implications. 
-(It will also discuss a couple of questions that you might have in more detail. "Insert research questions here")
+The key questions that will be answered in this canon are:
+- [x] Most of all, does free trade stimulate economic growth in developing countries?
+- [x] What models make up the foundation of international trade theory?
+- [x] On which important factors do the classical models miss out on?
+- [x] How can FDI affect the domestic economy of a developing country?
+- [x] In which situations might liberalization of trade be not beneficial for sub-developed and developing countries?
+- [x] In more detail, what are the prerequisites for a succesfull liberalization of trade?
+- [x] Are the assumptions of the specified models realized in case studies?
 
 ##The Classical (Orthodox) Models of International Trade
 
@@ -69,9 +74,9 @@ From the stages of Economic Integration we focus our analysis on the initial fou
 
 Under the empirical evidences of trade liberalisation we address to the case of the Pacific Arch. A process which in which we can distinguish 3 different phases:
 
-	- The case of Japan;
-	- The Asian Tigers (Hong Kong, Singapore, South Korea and Taiwan)
-	- The 2nd Generation of Industrialised countries (Thailand, Malaysia, Indonesia, China)
+- The case of Japan;
+- The Asian Tigers (Hong Kong, Singapore, South Korea and Taiwan)
+- The 2nd Generation of Industrialised countries (Thailand, Malaysia, Indonesia, China)
 
 The mentioned regions were not exactly wealthy nor in resources and capital. Nevertheless the labor is abundant, disciplined, capable and rather cheap.
 
@@ -81,7 +86,7 @@ We ought to refer South Korea (now will be referred simply as Korea) as an examp
 
 `Connolly, M. & Yi K. M. 2015. "How much of South Korea's Growth Trade can be Explained by Trade Policy." American Economic Journal: Macroeconomics Vol. 7, No. 4. (pp. 188-221).`
 
-`Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case."
+`Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case.`
 
 `Kim, K. S. 1991. "The Korean Miracle (1962-1980) Revisited: Myths and Realities in Strategy and Development" Issue 166 of Working paper. Helen Kellogg Institute for International Studies, University of Notre Dame.`
 
@@ -126,7 +131,7 @@ performance of the country degraded, causing roughly a 13% decline in the employ
 
 `Lee, E. 2005. “Trade Liberalization and Employment.” DESA Working Paper No. 5. ST/ESA/2005/ DWP/5.`
 
-Contrary to the predictions of economic models such as the Hecksher-Ohlin and the Stolper-Samuelson model, wage inequality increased in several countries after trade liberalization. The possibility of outsourcing and relocation of labor-intensive production processes from advanced to developing countries play also part in this phenomenon. This is not to say that the models are necessarily invalid, since Asian countries had quite an opposite experience, but rather to indicate that country-specific and contingent factors are crucial in a discourse about the benefits of trade liberalization. The difference between Latin American and Asian countries was that in Latin American countries there were problems of macroeconomic management, a significantly unequal distribution of assets, and an overdependence on external resources. Asian countries instead, chose to selective promote export policies. Not all countries are able to successfully implement such interventionist strategies and promote infant industries with the highest potentials, because efficient administration and strong political positions are required, conditions that hardly apply in developing countries.
+Contrary to the predictions of economic models such as the Hecksher-Ohlin and the Stolper-Samuelson model, wage inequality increased in several countries after trade liberalization. The possibility of outsourcing and relocation of labor-intensive production processes from advanced to developing countries play also part in this phenomenon. This is not to say that the models are necessarily invalid, since Asian countries had quite an opposite experience, but rather to indicate that country-specific and contingent factors are crucial in a discourse about the benefits of trade liberalization. The difference between Latin American and Asian countries was that in Latin American countries there were problems of macroeconomic management, a significantly unequal distribution of assets, and an overdependence on external resources. Asian countries instead, chose to selectively promote export policies. Not all countries are able to successfully implement such interventionist strategies and promote infant industries with the highest potentials, because efficient administration and strong political positions are required, conditions that hardly apply in developing countries.
 
 `Sachs, J. D. & Warner, A. M. 1995. “Natural Resource Abundance and Economic Growth.” NBER Working Paper No. 5398.`
 `Dollar, D. 1992. “Outward-Oriented Developing Economies Really Do Grow More Rapidly: Evidence from 95 LDCs, 1976-1985.” Economic Development and Cultural Change, Vol. 40, No. 3, pp. 523-544.`
