@@ -1,6 +1,6 @@
 ###*Canon Abstract*
 
-#Free Trade in Developing Countries
+#Liberalization of Trade in Developing Countries
 
 Our canon focusses on the pros and cons of free trade for developing countries. First we will describe the historical evolution of basic concepts of free trade, such as the **Heckscher-Ohlin model** and **Ricardo's theory of comparative advantage**. What follows is an overview of relevant literature.
 
