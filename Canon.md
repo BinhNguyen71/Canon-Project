@@ -78,9 +78,13 @@ The mentioned region were not exactly wealthy nor in resources and capital. Neve
 Following the success story of Japan, we ought to refer South Korea (now will be referred simply as Korea) as an example in which trade liberalisation effectively promoted a sustained growth of the national economy. We are talking about a country which is poor in natural resources with a scarce cultivable land. A country composed by a widely agrarian and feudalistic society. In the early 60’s unemployment and poverty were reaching extreme levels. Well South Korea is now one of the highly industrialised economies of the world, representing a fair share of the world’s trade and a already well established developed country.
 
 `Feridhanusetyawan, T. 1997. "Changing trade patterns and the impact of trade liberalization in Asia Pacific." Working paper (ACIAR Indonesia Research Project), 97-10. Adelaide, Australia: CIES, University of Adelaide.`
+
 `Connolly, M. & Yi K. M. 2015. "How much of South Korea's Growth Trade can be Explained by Trade Policy." American Economic Journal: Macroeconomics Vol. 7, No. 4. (pp. 188-221).`
+
 `Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case." http://www.columbia.edu/~ap2231/Policy%20Papers/miracles%20and%20debacles-panagariya-rev-March_04.pdf.`
+
 `Kim, K. S. 1991. "The Korean Miracle (1962-1980) Revisited: Myths and Realities in Strategy and Development.” Issue 166 of Working paper. Helen Kellogg Institute for International Studies, University of Notre Dame.`
+
 `Smith, S. C. 2003. "Case Studies in Economic Development, Third Edition”. George Washington University Department of Economics. A supplement to Michael P. Todaro and Stephen C. Smith, Economic Development, 8 th Edition, Boston, MA: Addison-Wesley.`
 
 The gradual growth of Korea was outlined in three different policy steps: (1) Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation.
