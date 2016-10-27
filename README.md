@@ -10,5 +10,5 @@ A project by Cesare Dagostino, Georgios Ellinas, Miguel van de Goor, Joep Hermus
 
 We aim to be able to explain the key concepts about the liberalization of trade clearly and hope that any person will be able to understand the mechanisms concerning free trade hereforth.
 
-![Magic](http://i738.photobucket.com/albums/xx21/Pankoek/Miguel%20Head%20%20Dance.jpg "just a dance")
+![Magic](http://i738.photobucket.com/albums/xx21/Pankoek/9ce91482-7f89-409c-84b4-fcdf0e968f8d.jpg "just a dance")
 
