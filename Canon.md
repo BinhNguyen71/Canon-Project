@@ -48,12 +48,12 @@ Aghion and Howitt discuss many details concerning growth in their book. Chapter 
   
 In conclusion, for a country to benefit from openness to trade, one should be able to catch up with the technologies, meaning that the barriers to innovation should be limited. Aghion and Howitt presume “that if there are instances where trade is bad for growth, they are probably in small countries that start off far behind the global technology frontier” (p. 370). And they argue that “it might be better to remove barriers to innovation first and then to wait until several domestic industries have become world leaders before removing the barriers to international trade” (p. 371).
 
-`Alfaro, L., & Chen, M. X. (2014). The global agglomeration of multinational firms. Journal of International Economics, 94, 263–276. http://dx.doi.org/10.1016/j.jinteco.2014.09.001`
+`Alfaro, L., & Chen, M. X. (2014). The global agglomeration of multinational firms. Journal of International Economics, 94, 263–276. http://dx.doi.org/10.1016/j.jinteco.2014.09.001.`
 
 Also when it comes to FDI and the part that multinationals play in opening up to trade we find the same remark. Removing barriers to innovation or in other words providing an infrastructure of easy technology diffusion is crucial for successful liberalization of trade. 
 Alfaro and Chen look at the factors that determine the location choice of a multinational firm. They conclude from their findings that developing countries could attract multinational companies by providing the infrastructure for supporting easy diffusion of technology. This in turn could lead to growth if also the benefits of production accrue to not only the GDP but also the GNP.
 
-`Tintelnot, F. (2014). Global production with export platforms, WTO Staff Working Paper, No. ERSD-2014-17`
+`Tintelnot, F. (2014). Global production with export platforms, WTO Staff Working Paper, No. ERSD-2014-17.`
 
 After the multinationals have settled and contributed to the domestic GDP, Tintelnot reveals that multinationals play a significant role in the knowledge spillovers “as they can jump the barriers to international trade”. He finds that productivity increases in US firms led to higher welfare gains in foreign countries due to the presence of multinationals.
 
@@ -77,11 +77,11 @@ The mentioned region were not exactly wealthy nor in resources and capital. Neve
 
 Following the success story of Japan, we ought to refer South Korea (now will be referred simply as Korea) as an example in which trade liberalisation effectively promoted a sustained growth of the national economy. We are talking about a country which is poor in natural resources with a scarce cultivable land. A country composed by a widely agrarian and feudalistic society. In the early 60’s unemployment and poverty were reaching extreme levels. Well South Korea is now one of the highly industrialised economies of the world, representing a fair share of the world’s trade and a already well established developed country.
 
-`Tubagus Feridhanusetyawan, "CHANGING TRADE PATTERNS AND THE IMPACT OF TRADE LIBERALIZATION IN ASIA PACIFIC", 1997`
-`Michelle Connolly and Kei-Mu Yi, "How much of South Korea's Growth Trade can be Explained by Trade Policy", 2008`
-`Arvind Panagariya, "Miracles and Debates: Do Free-Trade Skeptics have a case"`
-`Kwan S. Kim, "The Korean Miracle Revisited: Myths and Realities in Strategy and Development, 1991`
-`Stephen C. Smith, "Case Studies in Economic Development, Third Edition", 2003`
+`Feridhanusetyawan, T. 1997. "Changing trade patterns and the impact of trade liberalization in Asia Pacific." Working paper (ACIAR Indonesia Research Project), 97-10. Adelaide, Australia: CIES, University of Adelaide.`
+`Connolly, M. & Yi K. M. 2015. "How much of South Korea's Growth Trade can be Explained by Trade Policy." American Economic Journal: Macroeconomics Vol. 7, No. 4. (pp. 188-221).`
+`Panagariya, A. 2003. "Miracles and Debates: Do Free-Trade Skeptics have a case." http://www.columbia.edu/~ap2231/Policy%20Papers/miracles%20and%20debacles-panagariya-rev-March_04.pdf.`
+`Kim, K. S. 1991. "The Korean Miracle (1962-1980) Revisited: Myths and Realities in Strategy and Development.” Issue 166 of Working paper. Helen Kellogg Institute for International Studies, University of Notre Dame.`
+`Smith, S. C. 2003. "Case Studies in Economic Development, Third Edition”. George Washington University Department of Economics. A supplement to Michael P. Todaro and Stephen C. Smith, Economic Development, 8 th Edition, Boston, MA: Addison-Wesley.`
 
 The gradual growth of Korea was outlined in three different policy steps: (1) Import Substitution, 1954 - 1960; (2) Outward orientation, 1961-1979; (3) Balance and consolidation.
 
@@ -105,34 +105,34 @@ All in all during 1960-1980 the average per capita GDP growth was 6.3 percent fo
 
 In contrast to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth:
 
-`Revenga, 1994, “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing”`
+`Revenga, A. 1997. “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing.” Journal of Labor Economics, Vol. 15, No. S3, pp. S20-S43.`
 In Mexico, a 10% reduction in tariff levels lead to a 2-3% reduction in employment and an average 3-4% decline in real wages; the wage
 differential between skilled and unskilled workers increased intensely, while real wages of unskilled workers declined. The most
 fundamental reason pointed out for this result was the flexibility of the predominant wage. 
 
-`Mesquita & Najberg, 2000, “Trade liberalization in Brazil: Creating or exporting jobs?”`
+`Moreira, M. M. & Najberg, S. 2000. “Trade liberalization in Brazil: Creating or exporting jobs?” Journal of Development Studies, 36 (3), pp. 78-99.`
 Brazil is a resource-abundant country, and Brazilian exports are concentrated in the products with the lowest degree of processing. The
 trade liberalization that took place in the early 1990s caused a short-term 32% drop in employment in capital-intensive industries due
 to a sharp increase in productivity. Furthermore, as the domestic market opened its borders to new import-products, the export
 performance of the country degraded, causing roughly a 13% decline in the employment of labor-intensive industries. 
 
-`DESA Working Paper No. 5, 2005, “Trade Liberalization and Employment”`
+`Lee, E. 2005. “Trade Liberalization and Employment.” DESA Working Paper No. 5. ST/ESA/2005/ DWP/5.`
 Contrary to the predictions of economic models such as the Hecksher-Ohlin and the Stolper-Samuelson model, wage inequality increased in several countries after trade liberalization. The possibility of outsourcing and relocation of labor-intensive production processes from advanced to developing countries play also part in this phenomenon. This is not to say that the models are necessarily invalid, since Asian countries had quite an opposite experience, but rather to indicate that country-specific and contingent factors are crucial in a discourse about the benefits of trade liberalization. The difference between Latin American and Asian countries was that in Latin American countries there were problems of macroeconomic management, a significantly unequal distribution of assets, and an overdependence on external resources. Asian countries instead, chose to selective promote export policies. Not all countries are able to successfully implement such interventionist strategies and promote infant industries with the highest potentials, because efficient administration and strong political positions are required, conditions that hardly apply in developing countries.
 
-`Sachs and Warner, 1995, Natural Resource Abundance and Economic Growth`
-`Dollar, 1992, “Outward-Oriented Developing Economies Really Do Grow More Rapidly”`
+`Sachs, J. D. & Warner, A. M. 1995. “Natural Resource Abundance and Economic Growth.” NBER Working Paper No. 5398.`
+`Dollar, D. 1992. “Outward-Oriented Developing Economies Really Do Grow More Rapidly: Evidence from 95 LDCs, 1976-1985.” Economic Development and Cultural Change, Vol. 40, No. 3, pp. 523-544.`
 These two studies had a high influence in forming the view that lowering trade barriers through national policies can generate growth faster for the country. Dollar advocated the benefits of free trade using a cross-section analysis for a sample of 95 countries between the period of 1976 and 1985 in order to demonstrate that growth is negatively correlated with real exchange rate distortion and real exchange variability, which are inextricably linked to a close economy. Sachs and Warner had similar results when measuring the relationship of openness and growth. In their cross-section analysis they used 70 countries as a sample, accounting for the level of average tariffs, political systems, and market power and structure.
 
-`Rodriguez and Rodrick, 1999, “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence”`
+`Rodrik, D. & Rodriguez, F. 1999. “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence.” NBER Working Paper No. 7081.`
 The findings of the above two studies have been questioned by a convincing critique of Rodriguez and Rodrick, who find the selected indicators of “openness” seriously flawed. The main argument is that the measures of trade barriers are not reliable enough, and that they are also highly correlated with other sources of poor economic performance. If this argument holds, then the proposition that trade liberalization is automatically leads to higher growth is not undisputable.
 
-`Dollar and Kraay, 2001, “Trade, Growth, and Poverty”`
+`Dollar, D. & Kraay, A. 2001. “Trade, Growth, and Poverty.” World Bank Policy Research Working Paper No. 2615.`
 A group of countries is identified as the “post-1980 globalizers” that have seen both a considerable raise in trade and a significant decline in tariffs from 1970 until 1990. The paper claims that despite the decline of growth in developed and other undeveloped countries, the “post-1980 globalizers” accelerated their growth rates during that period. The paper is admittedly more persuading on the effects of trade expansion on growth than on the effects of trade policy per se.
 
-`Rodrick, 2001, “The Global Governance of Trade as if Development really Mattered”`
+`Rodrick, D. 2001. “The Global Governance of Trade as if Development Really Mattered.” United Nations Development Programme Background Paper.`
 The paper denotes that the work of Dollar and Kraay (2001) is also flawed by applying an “arbitrary set of selection criteria to their sample of countries”. Rodrick criticized the combining of a policy measure with an outcome measure in selecting countries that Dollar and Kraay did as “conceptually inappropriate”. He also denoted that “policy makers do not directly control the level of trade… the tools at the disposal of governments are tariff and non-tariff barriers, not import or export levels”. This is indeed worth noting, since the countries in the sample that implemented deep trade liberalization had lower rates of economic growth than than the countries who just expanded their trade volume. Another point of Rodrick was that China and India passed trade reforms a decade after their growth acceleration, and therefore their growth rates are is not attributable to trade liberalization.
 
-`Greenaway, Morgan and Wright, 1998, “Trade Liberalization and Growth in Developing Countries”`
+`Greenaway, D. & Morgan, W. & 	Wright, P. 2002. “Trade Liberalization and Growth in Developing Countries.” Journal of Development Economics, Vol. 67, Issue 1, pages 229-244.`
 This recent review of the empirical evidence on the effects of trade liberalization concludes that country circumstances play the highest role on whether growth declines or increases. For example, there are short-run costs of adjustment to trade liberalization (“a J-curve type response”), such as an observed increase in current account deficits in spite of an increase in exports. Overall, the mixed results that the paper presents indicate that the impact of trade liberalization is highly influenced by the type of the liberalization program, pre-existing distortions in the trade regime and the flexibility of markets.
 
 ## Final Remarks
