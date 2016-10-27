@@ -8,7 +8,7 @@ A project by Cesare Dagostino, Georgios Ellinas, Miguel van de Goor, Joep Hermus
 - [x] [Research](https://github.com/BinhNguyen71/Canon-Project/blob/master/canonprep%20and%20sources.md "Work in Progress") has been finished
 - [x] The [Canon](https://github.com/BinhNguyen71/Canon-Project/blob/master/Canon "Have fun reading it") in totale
 
-We aim to be able to explain the key concepts about the liberalization of trade clearly and hope that any person will be able to understand the mechanisms concerning free trade hereforth.
+We aim to be able to explain the key concepts about the liberalization of trade clearly and hope that any person will be able to understand the mechanisms concerning free trade hereforth. We appreciate anyone taking time to read our canon. Thank you for that.
 
 ![Magic](http://i738.photobucket.com/albums/xx21/Pankoek/9ce91482-7f89-409c-84b4-fcdf0e968f8d.jpg "just a dance")
 
