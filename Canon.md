@@ -106,6 +106,10 @@ All in all during 1960-1980 the average per capita GDP growth was 6.3 percent fo
 
 *In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth. Instead, on some occasions there was poor export performance, rise in wage inequality and changes in the economic structure of production:
 
+`Revenga, A. 1997. “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing.” Journal of Labor Economics, Vol. 15, No. S3, pp. S20-S43.`
+
+In Mexico, a 10% reduction in tariff levels lead to a 2-3% reduction in employment and an average 3-4% decline in real wages; the wage differential between skilled and unskilled workers increased intensely, while real wages of unskilled workers declined. The most fundamental reason pointed out for this result was the flexibility of the predominant wage.
+
 `Trade liberalization in Brazil: Creating or exporting jobs?” Journal of Development Studies, 36 (3), pp. 78-99.`
 
 Brazil is a resource-abundant country, and Brazilian exports are concentrated in the products with the lowest degree of processing. The
