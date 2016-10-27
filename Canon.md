@@ -110,33 +110,40 @@ All in all during 1960-1980 the average per capita GDP growth was 6.3 percent fo
 In contrast to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth:
 
 `Revenga, A. 1997. “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing.” Journal of Labor Economics, Vol. 15, No. S3, pp. S20-S43.`
+
 In Mexico, a 10% reduction in tariff levels lead to a 2-3% reduction in employment and an average 3-4% decline in real wages; the wage
 differential between skilled and unskilled workers increased intensely, while real wages of unskilled workers declined. The most
 fundamental reason pointed out for this result was the flexibility of the predominant wage. 
 
 `Moreira, M. M. & Najberg, S. 2000. “Trade liberalization in Brazil: Creating or exporting jobs?” Journal of Development Studies, 36 (3), pp. 78-99.`
+
 Brazil is a resource-abundant country, and Brazilian exports are concentrated in the products with the lowest degree of processing. The
 trade liberalization that took place in the early 1990s caused a short-term 32% drop in employment in capital-intensive industries due
 to a sharp increase in productivity. Furthermore, as the domestic market opened its borders to new import-products, the export
 performance of the country degraded, causing roughly a 13% decline in the employment of labor-intensive industries. 
 
 `Lee, E. 2005. “Trade Liberalization and Employment.” DESA Working Paper No. 5. ST/ESA/2005/ DWP/5.`
+
 Contrary to the predictions of economic models such as the Hecksher-Ohlin and the Stolper-Samuelson model, wage inequality increased in several countries after trade liberalization. The possibility of outsourcing and relocation of labor-intensive production processes from advanced to developing countries play also part in this phenomenon. This is not to say that the models are necessarily invalid, since Asian countries had quite an opposite experience, but rather to indicate that country-specific and contingent factors are crucial in a discourse about the benefits of trade liberalization. The difference between Latin American and Asian countries was that in Latin American countries there were problems of macroeconomic management, a significantly unequal distribution of assets, and an overdependence on external resources. Asian countries instead, chose to selective promote export policies. Not all countries are able to successfully implement such interventionist strategies and promote infant industries with the highest potentials, because efficient administration and strong political positions are required, conditions that hardly apply in developing countries.
 
 `Sachs, J. D. & Warner, A. M. 1995. “Natural Resource Abundance and Economic Growth.” NBER Working Paper No. 5398.`
 `Dollar, D. 1992. “Outward-Oriented Developing Economies Really Do Grow More Rapidly: Evidence from 95 LDCs, 1976-1985.” Economic Development and Cultural Change, Vol. 40, No. 3, pp. 523-544.`
+
 These two studies had a high influence in forming the view that lowering trade barriers through national policies can generate growth faster for the country. Dollar advocated the benefits of free trade using a cross-section analysis for a sample of 95 countries between the period of 1976 and 1985 in order to demonstrate that growth is negatively correlated with real exchange rate distortion and real exchange variability, which are inextricably linked to a close economy. Sachs and Warner had similar results when measuring the relationship of openness and growth. In their cross-section analysis they used 70 countries as a sample, accounting for the level of average tariffs, political systems, and market power and structure.
 
 `Rodrik, D. & Rodriguez, F. 1999. “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence.” NBER Working Paper No. 7081.`
+
 The findings of the above two studies have been questioned by a convincing critique of Rodriguez and Rodrick, who find the selected indicators of “openness” seriously flawed. The main argument is that the measures of trade barriers are not reliable enough, and that they are also highly correlated with other sources of poor economic performance. If this argument holds, then the proposition that trade liberalization is automatically leads to higher growth is not undisputable.
 
 `Dollar, D. & Kraay, A. 2001. “Trade, Growth, and Poverty.” World Bank Policy Research Working Paper No. 2615.`
 A group of countries is identified as the “post-1980 globalizers” that have seen both a considerable raise in trade and a significant decline in tariffs from 1970 until 1990. The paper claims that despite the decline of growth in developed and other undeveloped countries, the “post-1980 globalizers” accelerated their growth rates during that period. The paper is admittedly more persuading on the effects of trade expansion on growth than on the effects of trade policy per se.
 
 `Rodrick, D. 2001. “The Global Governance of Trade as if Development Really Mattered.” United Nations Development Programme Background Paper.`
+
 The paper denotes that the work of Dollar and Kraay (2001) is also flawed by applying an “arbitrary set of selection criteria to their sample of countries”. Rodrick criticized the combining of a policy measure with an outcome measure in selecting countries that Dollar and Kraay did as “conceptually inappropriate”. He also denoted that “policy makers do not directly control the level of trade… the tools at the disposal of governments are tariff and non-tariff barriers, not import or export levels”. This is indeed worth noting, since the countries in the sample that implemented deep trade liberalization had lower rates of economic growth than than the countries who just expanded their trade volume. Another point of Rodrick was that China and India passed trade reforms a decade after their growth acceleration, and therefore their growth rates are is not attributable to trade liberalization.
 
 `Greenaway, D. & Morgan, W. & 	Wright, P. 2002. “Trade Liberalization and Growth in Developing Countries.” Journal of Development Economics, Vol. 67, Issue 1, pages 229-244.`
+
 This recent review of the empirical evidence on the effects of trade liberalization concludes that country circumstances play the highest role on whether growth declines or increases. For example, there are short-run costs of adjustment to trade liberalization (“a J-curve type response”), such as an observed increase in current account deficits in spite of an increase in exports. Overall, the mixed results that the paper presents indicate that the impact of trade liberalization is highly influenced by the type of the liberalization program, pre-existing distortions in the trade regime and the flexibility of markets.
 
 ## Final Remarks
