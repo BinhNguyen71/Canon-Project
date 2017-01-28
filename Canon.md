@@ -104,7 +104,7 @@ As further evidence for the benefits of free trade, Smith proposes the lesser su
 
 All in all during 1960-1980 the average per capita GDP growth was 6.3 percent for Korea and only 1.1 percent in India. While Korea managed to turn towards an outward-oriented trade regime India followed a protectionist approach. The fact that the Indian government followed an import-substituting policy did not allow for at least the import of inputs of higher quality such that the efficiency levels could be increased.
 
-*In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth. Instead, on some occasions there was poor export performance, rise in wage inequality and changes in the economic structure of production:
+*In contrast* to the Asian countries, Latin American countries such as Brazil and Mexico did not observe the same favorable effects of trade growth. Instead, on some occasions there was poor export performance, rise in wage inequality or changes in the economic structure of production.
 
 `Revenga, A. 1997. “Employment and Wage Effects of Trade Liberalization: The Case of Mexican Manufacturing.” Journal of Labor Economics, Vol. 15, No. S3, pp. S20-S43.`
 
@@ -124,14 +124,15 @@ Contrary to the predictions of economic models such as the Hecksher-Ohlin and th
 `Sachs, J. D. & Warner, A. M. 1995. “Natural Resource Abundance and Economic Growth.” NBER Working Paper No. 5398.`
 `Dollar, D. 1992. “Outward-Oriented Developing Economies Really Do Grow More Rapidly: Evidence from 95 LDCs, 1976-1985.” Economic Development and Cultural Change, Vol. 40, No. 3, pp. 523-544.`
 
-Sachs and Warner (1995) and Dollar (1992) had a high influence in forming the view that lowering trade barriers through national policies can generate growth faster for the country. Dollar advocated the benefits of free trade using a cross-section analysis for a sample of 95 countries between the period of 1976 and 1985 in order to demonstrate that growth is negatively correlated with real exchange rate distortion and real exchange variability, which are inextricably linked to a close economy. Sachs and Warner had similar results when measuring the relationship of openness and growth. In their cross-section analysis they used 70 countries as a sample, accounting for the level of average tariffs, political systems, and market power and structure.
+Sachs and Warner (1995) and Dollar (1992) had a high influence in forming the view that lowering trade barriers through national policies can generate growth faster for the country. Dollar advocated the benefits of free trade using a cross-section analysis for a sample of 95 countries between the period of 1976 and 1985 in order to demonstrate that growth is negatively correlated with real exchange rate distortion and real exchange variability, which are inextricably linked to a closed economy. Sachs and Warner had similar results when measuring the relationship of openness and growth. In their own cross-section analysis they used 70 countries as a sample, accounting for the level of average tariffs, political systems, and market power and structure. Both studies suggested that trade liberalization by itself leads to higher growth.
 
 `Rodrik, D. & Rodriguez, F. 1999. “Trade Policy and Economic Growth: A Sceptic’s Guide to the Cross-National Evidence.” NBER Working Paper No. 7081.`
 
 However, the findings of these two studies have been questioned by a convincing critique of Rodriguez and Rodrik, who find the selected indicators of “openness” seriously flawed. The main argument is that the measures of trade barriers are not reliable enough, and that they are also highly correlated with other sources of poor economic performance. If this argument holds, then the proposition that trade liberalization automatically leads to higher growth is not undisputable.
 
 `Dollar, D. & Kraay, A. 2001. “Trade, Growth, and Poverty.” World Bank Policy Research Working Paper No. 2615.`
-A group of countries is identified as the “post-1980 globalizers” that have seen both a considerable raise in trade and a significant decline in tariffs from 1970 until 1990. The paper claims that despite the decline of growth in developed and other undeveloped countries, the “post-1980 globalizers” accelerated their growth rates during that period. The paper is admittedly more persuading on the effects of trade expansion on growth than on the effects of trade policy per se.
+
+A group of countries is identified as the “post-1980 globalizers” that have seen both a considerable raise in trade and a significant decline in tariffs from 1970 until 1990. The paper claims that despite the decline of growth in developed and other undeveloped countries, the “post-1980 globalizers” accelerated their growth rates during that period. Rodrik (2001) critisized these findings by pointing out that policy makers do not have direct control over the levels of trade, and therefore the combination of tarrifs and trade levels as policy and output measures was 'conceptually inapropriate'. However, the paper is persuading on the effects of trade expansion on growth.
 
 `Rodrik, D. 2001. “The Global Governance of Trade as if Development Really Mattered.” United Nations Development Programme Background Paper.`
 
